@@ -1,2 +1,3 @@
 # EM100
-Profile of motor controller
+
+Votol EM100's profile
